@@ -20,4 +20,4 @@ To get results:
     b) analyze_het_int_tax_OLG_T2_fxgamma1: RESULTS\ana_het_int_tax_OLG_T2_cal2_taxoptXXX_fixgamma1
 5) Plot results with "plots"
     a) plots_het_int_tax_OLG_T2_cal2_fxtax0
-    a) plots_het_int_tax_OLG_T2_cal2_fxgamma1
+    b) plots_het_int_tax_OLG_T2_cal2_fxgamma1
